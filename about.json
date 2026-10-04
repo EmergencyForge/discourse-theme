@@ -1,0 +1,39 @@
+{
+  "name": "EmergencyForge",
+  "component": false,
+  "authors": "EmergencyForge",
+  "about_url": "https://emergencyforge.de",
+  "license_url": null,
+  "theme_version": "1.0.0",
+  "assets": {
+    "geist": "assets/geist.woff2",
+    "geist_mono": "assets/geist-mono.woff2",
+    "amboss": "assets/amboss.png"
+  },
+  "color_schemes": {
+    "EmergencyForge Hell": {
+      "primary": "18181b",
+      "secondary": "fafafa",
+      "tertiary": "c23a00",
+      "quaternary": "c23a00",
+      "header_background": "fafafa",
+      "header_primary": "18181b",
+      "highlight": "ffe3d6",
+      "danger": "c62828",
+      "success": "009900",
+      "love": "ff4d00"
+    },
+    "EmergencyForge Dunkel": {
+      "primary": "ededef",
+      "secondary": "0c0c0e",
+      "tertiary": "ff6a2b",
+      "quaternary": "ff6a2b",
+      "header_background": "0c0c0e",
+      "header_primary": "ededef",
+      "highlight": "33241b",
+      "danger": "ef5350",
+      "success": "009900",
+      "love": "ff4d00"
+    }
+  }
+}
