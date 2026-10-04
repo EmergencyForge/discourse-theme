@@ -4,7 +4,7 @@
   "authors": "EmergencyForge",
   "about_url": "https://emergencyforge.de",
   "license_url": null,
-  "theme_version": "1.0.0",
+  "theme_version": "1.0.1",
   "assets": {
     "geist": "assets/geist.woff2",
     "geist_mono": "assets/geist-mono.woff2",
@@ -21,7 +21,9 @@
       "highlight": "ffe3d6",
       "danger": "c62828",
       "success": "009900",
-      "love": "ff4d00"
+      "love": "ff4d00",
+      "selected": "e7e7ea",
+      "hover": "f0f0f2"
     },
     "EmergencyForge Dunkel": {
       "primary": "ededef",
@@ -33,7 +35,9 @@
       "highlight": "33241b",
       "danger": "ef5350",
       "success": "009900",
-      "love": "ff4d00"
+      "love": "ff4d00",
+      "selected": "26262b",
+      "hover": "18181c"
     }
   }
 }
