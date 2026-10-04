@@ -13,8 +13,8 @@ Das Theme ersetzt das bisherige Theme "emergencyforge style", das nur im Admin g
 
 ## Einbauen
 
-1. Repo auf GitHub legen, z. B. `EmergencyForge/forum-theme`.
-2. Admin → Anpassen → Themes → Installieren → "Aus einem Git-Repository", URL eintragen.
+1. Admin → Anpassen → Themes → Installieren → "Aus einem Git-Repository".
+2. URL eintragen: `https://github.com/EmergencyForge/discourse-theme`
 3. Beim neuen Theme die Farbpaletten wählen: hell "EmergencyForge Hell", dunkel "EmergencyForge Dunkel".
 4. Komponente "category icons" an das neue Theme hängen. Komponenten gelten pro Theme.
 5. "EmergencyForge" als Standard-Theme setzen. Das alte "emergencyforge style" nur deaktivieren, nicht löschen, dann bleibt der Rückweg offen.
