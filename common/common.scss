@@ -54,6 +54,9 @@
   --d-header-icon-color: var(--primary-medium);
   --d-header-icon-color--hover: var(--primary);
   --d-welcome-banner-text-alignment: left;
+  /* Kern: oben 1,5rem, unten 3rem. Gleich verteilt wirkt die Box ruhiger */
+  --d-welcome-banner-padding-top: var(--space-8);
+  --d-welcome-banner-padding-bottom: var(--space-8);
 }
 
 .btn {
@@ -104,6 +107,8 @@
 .welcome-banner {
   position: relative;
   overflow: hidden;
+  /* Ohne Abstand klebt die Navigation (Kategorien, Schlagwörter) direkt an der Box */
+  margin-bottom: var(--space-6);
   background: var(--ef-surface);
   border: 1px solid var(--primary-low);
 

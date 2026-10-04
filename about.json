@@ -4,7 +4,7 @@
   "authors": "EmergencyForge",
   "about_url": "https://emergencyforge.de",
   "license_url": null,
-  "theme_version": "1.0.1",
+  "theme_version": "1.0.2",
   "assets": {
     "geist": "assets/geist.woff2",
     "geist_mono": "assets/geist-mono.woff2",
